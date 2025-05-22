@@ -9,12 +9,7 @@ Almond65 is a free and open-source emulator for the Nintendo 64 and Nintendo 64 
 - Fullscreen support  
 - Controller support  
 - Support for many popular N64 emulator plugins
-
-## Screenshot
-
-<p align="center">
-  <img src="./Docs/img/screen.png" alt="screenshot" width="400" />
-</p>
+- NO FORCED NAG SCREEN
 
 ## Installation
 
